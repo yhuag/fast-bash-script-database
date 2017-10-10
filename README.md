@@ -5,6 +5,6 @@ Fast and light-weighted. Swiftly append and retrieve through terminal command (b
 ### Append (Add)
 `bash appendToFile.sh <key> <value>`
 ### Search (Retrieve)
-`bash searchKeyMacth.sh <key>`
+`bash searchKeyMatch.sh <key>`
 or
-`bash searchKeyMacth.sh <part_of_key>`
+`bash searchKeyMatch.sh <part_of_key>`
